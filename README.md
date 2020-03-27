@@ -15,7 +15,7 @@ REPO URL: https://github.com/TirthPOnTechU/CSCI2020U_Final_proj.git
 HOW TO RUN:
 1. clone the repo into your computer
 2. open intellij
-3. open the gradle.build file (as a project)
+3. open the build.gradle file (as a project)
 4. run the ServerDriver.java file
 
 MAIN USE CASE:
