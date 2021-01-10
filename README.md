@@ -9,6 +9,7 @@ Setu: Login GUI, Login backend, Login File IO
 Tharuni: Client GUI
 Nisarg: Gradle
 
+YOUTUBE URL: https://youtu.be/cuFupqlidkE
 GITHUB URL: https://github.com/TirthPOnTechU/CSCI2020U_Final_proj
 REPO URL: https://github.com/TirthPOnTechU/CSCI2020U_Final_proj.git
 
